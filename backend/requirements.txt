@@ -1,0 +1,6 @@
+Flask
+requests
+python-dotenv
+WeasyPrint
+flask-cors
+beautifulsoup4
